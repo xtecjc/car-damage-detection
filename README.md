@@ -9,3 +9,10 @@ The notebooks were run in a Google Colab. The NVIDIA Tesla A100 GPU with 40GB RA
 NVIDIA Tesla V100 GPU with 16GB RAM sufficed for finetune-yolov8.ipynb and test-and-inference-pipeline.ipynb.
 
 All dependencies are installed within the notebooks with command line commands.
+
+The following Google Drive directory contains all training and testing data, as well as the weights for the finetuned yolov8x architecture:
+https://drive.google.com/drive/folders/1R5B086gLhqNxbjKVO71cgtmIJkS-oIZq?usp=sharing
+
+Our finetuned SAM architecture can be found in the following link: 
+https://huggingface.co/yjmsvma/car_sam
+
