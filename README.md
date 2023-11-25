@@ -8,7 +8,7 @@ The test-and-inference-pipeline.ipynb notebook was used to test our method on in
 The notebooks were run in a Google Colab. The NVIDIA Tesla A100 GPU with 40GB RAM was used for the finetune_sam.ipynb notebook, whereas the
 NVIDIA Tesla V100 GPU with 16GB RAM sufficed for finetune-yolov8.ipynb and test-and-inference-pipeline.ipynb.
 
-All dependencies are installed within the notebooks with command line commands.
+All dependencies are installed within the notebooks with command line prompts.
 
 The following Google Drive directory contains all training and testing data, as well as the weights for the finetuned yolov8x architecture:
 https://drive.google.com/drive/folders/1R5B086gLhqNxbjKVO71cgtmIJkS-oIZq?usp=sharing
